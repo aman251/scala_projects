@@ -14,8 +14,8 @@ object AwsS3Data {
   
   def connectAWS(bname: String): AmazonS3Client = {
 
-    val AWS_ACCESS_KEY = "AKIAJI5W3PPVONISVT2A"   
-    val AWS_SECRET_KEY = "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"
+    val AWS_ACCESS_KEY = "*******************"   
+    val AWS_SECRET_KEY = "*********************"
     
     println("set credentials")
     
